@@ -1,23 +1,23 @@
 # GoldenGate Monitoring App
 
-Ein Flutter-Frontend zur Überwachung von Oracle GoldenGate-Instanzen.
+A Flutter frontend for monitoring Oracle GoldenGate instances.
 
-## 🔍 Funktionen
+## 🔍 Functions
 
-- Verbindungsverwaltung mit Hive (lokale Speicherung)
-- Übersicht und Monitoring von:
-  - Extract-Prozessen
-  - Replicat-Prozessen
-  - Distribution Paths
-- Integration mit REST-APIs (Basic Auth)
-- Dynamische Darstellung von Einheiten pro Verbindung
+- Connection management with Hive (local storage)
+- Overview and monitoring of:
+- Extract processes
+- Replicat processes
+- Distribution paths
+- Integration with REST APIs (Basic Auth)
+- Dynamic representation of units per connection
 
-## 🧱 Technologien
+## 🧱 Technology
 
 - Flutter & Dart
-- Hive für lokale Datenpersistenz
-- HTTP für API-Kommunikation
-- Modularer Aufbau mit Widgets und Services
+- Hive for local data persistence
+- HTTP for API communication
+- Modular structure with widgets and services
 
 ## 📦 Setup
 
