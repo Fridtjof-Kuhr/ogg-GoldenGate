@@ -1,0 +1,1 @@
+C:\08_Programming\GoldenGate_MobileApp\Dev01\Monitoring\build\app\intermediates\cxx\Debug\z6470l68\obj\arm64-v8a

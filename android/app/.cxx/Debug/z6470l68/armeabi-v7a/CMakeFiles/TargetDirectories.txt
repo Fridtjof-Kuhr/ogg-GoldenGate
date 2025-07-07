@@ -1,0 +1,2 @@
+C:/08_Programming/GoldenGate_MobileApp/Dev01/Monitoring/android/app/.cxx/Debug/z6470l68/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/08_Programming/GoldenGate_MobileApp/Dev01/Monitoring/android/app/.cxx/Debug/z6470l68/armeabi-v7a/CMakeFiles/rebuild_cache.dir

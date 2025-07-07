@@ -1,0 +1,2 @@
+/Users/fridtjofkuhr/Desktop/Monitoring/android/app/.cxx/Debug/u71z6x3j/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/fridtjofkuhr/Desktop/Monitoring/android/app/.cxx/Debug/u71z6x3j/arm64-v8a/CMakeFiles/rebuild_cache.dir
